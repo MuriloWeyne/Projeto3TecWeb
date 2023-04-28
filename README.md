@@ -1,16 +1,7 @@
 # todo_list
 
-smart todo list app
+Este projeto foi desenvolvido em conjunto com 3 outros colegas da minha classe:
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. [Antonio Amaral](https://github.com/AntonioAEMartins)
+2. [Ariel T. Leventhal](https://github.com/arieltl)
+3. [Arthur Barreto](https://github.com/Arthur-Barreto)
